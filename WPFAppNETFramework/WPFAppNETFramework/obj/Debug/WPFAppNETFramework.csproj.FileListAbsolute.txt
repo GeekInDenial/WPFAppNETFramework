@@ -1,0 +1,15 @@
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\bin\Debug\WPFAppNETFramework.exe.config
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\bin\Debug\WPFAppNETFramework.exe
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\bin\Debug\WPFAppNETFramework.pdb
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.csprojAssemblyReference.cache
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\MainWindow.g.cs
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\App.g.cs
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework_MarkupCompile.cache
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework_MarkupCompile.lref
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\MainWindow.baml
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.g.resources
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.Properties.Resources.resources
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.csproj.GenerateResource.cache
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.csproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.exe
+C:\Users\mike\source\repos\WPFAppNETFramework\WPFAppNETFramework\obj\Debug\WPFAppNETFramework.pdb
